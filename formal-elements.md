@@ -2,7 +2,7 @@
 
 # SOS (Save Our Ship)
   
-**"The clock is ticking, will you be able to save them all?"**
+**The clock is ticking, will you be able to save them all?**
 
 
 ## מהות המשחק
