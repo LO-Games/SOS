@@ -13,7 +13,8 @@ SOS היא דרך מהנה ומעניינת ללמוד מיומנויות עזר
 3. https://github.com/LO-Games/SOS/blob/main/Assets/Scripts/KeyboardSmoothMover.cs
 4. https://github.com/LO-Games/SOS/blob/main/Assets/Scripts/Dehydration.cs
 5. https://github.com/LO-Games/SOS/blob/main/Assets/Scripts/CPR.cs
-תיכנון בדיקות-משחק: 
+
+## תיכנון בדיקות-משחק: 
 1. האם יש צורך בהוספת מכשולים לשחקן בדרך ?  
 2. האם המדריך בתחילת המשחק ברור ומובן ? 
 3. האם המשחק מספיק מושך את השחקן לשחק או שיש צורך בתוספת מעניינת שתגרום למשחק להיות מהנה יותר ? 
