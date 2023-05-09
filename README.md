@@ -5,14 +5,14 @@
 תשחקו כדמות המסתובבת ברחובות העיר ומגיבה לתרחישים שונים שקורים בקרבת מקום על פי הוראות הניתנות ע"י נציג שירותי החירום וכך תרכשו נסיון ויכולת התמודדות עם תרחישי חירום שונים. 
 SOS היא דרך מהנה ומעניינת ללמוד מיומנויות עזרה ראשונה שעלולים להציל חיים.
 ## תהליך פתיחה 
-בנינו את עולם המשחק ומימשנו את תהליך הפתיחה שלו, ניתן לראות את תהליך הפתיחה בקישור: https://youtu.be/cdeNItqipCA
-הערה: אין תקלות במשחק. 
-קישורים לסקריפטים עם תיעוד מלא של הקוד:
+בנינו את עולם המשחק ומימשנו את תהליך הפתיחה שלו, ניתן לראות את תהליך הפתיחה בקישור: https://youtu.be/cdeNItqipCA ,קישורים לסקריפטים עם תיעוד מלא של הקוד:
 1. https://github.com/LO-Games/SOS/blob/main/Assets/Scripts/OnButtonClick.cs
 2. https://github.com/LO-Games/SOS/blob/main/Assets/Scripts/TutorialManager.cs
 3. https://github.com/LO-Games/SOS/blob/main/Assets/Scripts/KeyboardSmoothMover.cs
 4. https://github.com/LO-Games/SOS/blob/main/Assets/Scripts/Dehydration.cs
 5. https://github.com/LO-Games/SOS/blob/main/Assets/Scripts/CPR.cs
+
+### הערה: אין תקלות במשחק. 
 
 ## תיכנון בדיקות-משחק: 
 1. האם יש צורך בהוספת מכשולים לשחקן בדרך ?  
